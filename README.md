@@ -12,11 +12,9 @@ Dive into a curated collection of projects reflecting my dedication to innovatio
 
 ## 📂 Repository Highlights
 
-- **Code Artistry**: Crafted with care, each line showcases a commitment to excellence.
+- **Functions**: Embark on my coding learning journey where every commit narrates the story of my growth as a programmer. Join me in the world of algorithms, syntax, and the joy of continuous learning.
 
-- **Commit Chronicles**: Explore a timeline marked by dedication, innovation, and the occasional late-night coding session.
-
-- **Secrets & Surprises**: Uncover hidden gems and surprises within the code. It's not just a repository; it's an adventure!
+- **Simple Web Scraper**: Explore my web scraper, a tool crafted for extracting valuable insights from the vast web. Dive into the code and witness the art of data extraction.
 
 ## 🌟 Let's Connect!
 
