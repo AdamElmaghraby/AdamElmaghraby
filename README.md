@@ -8,7 +8,7 @@ Dive into a curated collection of projects reflecting my dedication to innovatio
 
 ## 🚀 Quick Links
 
-- **LinkedIn**: [YourUsername](https://www.linkedin.com/in/adam-elmaghraby/)
+- **LinkedIn**: [AdamElmaghraby](https://www.linkedin.com/in/adam-elmaghraby/)
 
 ## 📂 Repository Highlights
 
