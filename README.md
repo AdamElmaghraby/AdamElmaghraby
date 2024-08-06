@@ -10,12 +10,6 @@ Hello! I'm Adam, a dedicated coder with a passion for innovation. Dive into my c
 
 - **LinkedIn**: [AdamElmaghraby](https://www.linkedin.com/in/adam-elmaghraby/)
 
-## Highlights
-
-- **Functions**: Dive into my coding world, where each commit reflects growth. Discover algorithms and the joy of learning.
-
-- **Simple Web Scraper**: Explore my tool for extracting insights from the web.
-
 ## Let's Connect!
 
 For collaboration or tech discussions:
