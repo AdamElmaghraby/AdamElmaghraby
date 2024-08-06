@@ -17,10 +17,3 @@ For collaboration or tech discussions:
 - [LinkedIn](https://www.linkedin.com/in/adam-elmaghraby/)
 - [Email](mailto:adamahmedelmaghraby@gmail.com)
 
-## Star ⭐
-
-If you appreciate my projects, a star is welcome!
-
----
-
-**Happy Coding! May your work be bug-free and your commits flawless.** 🚀✨
