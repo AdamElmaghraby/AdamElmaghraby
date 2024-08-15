@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hello, I'm [Adam](https://github.com/AdamElmaghraby). Here's a brief overview:
+Hello, I'm [Adam](https://github.com/AdamElmaghraby).
 
 ## About Me
 
@@ -10,6 +10,5 @@ Hello! I'm Adam, a dedicated coder with a passion for innovation. Dive into my c
 
 For collaboration or tech discussions:
 
-- [LinkedIn](https://www.linkedin.com/in/adam-elmaghraby/)
-- [Email](mailto:adamahmedelmaghraby@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adam-elmaghraby/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat-square&logo=gmail)](mailto:adamahmedelmaghraby@gmail.com)
