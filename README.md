@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile 👋
 
-Hello, I'm [Adam](https://github.com/AdamElmaghraby).
-
-## About Me
-
 Hello! I'm Adam, a dedicated coder with a passion for innovation. Dive into my code to witness the journey of growth, from crafting efficient functions to exploring the art of data extraction. Let's connect and create something exceptional together!
 
 ## Let's Connect!
