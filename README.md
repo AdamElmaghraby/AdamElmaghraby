@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Adam Elmaghraby</h1>
 
 # 💫 About Me
-I am a first-year computer science student, passionate about learning the fields of coding, machine learning, and building application that can impact.
+I am a first-year computer science student passionate about learning coding, machine learning, and building applications that can make a positive impact on the world.
 
 ## 🚀 What I'm Up To
 
