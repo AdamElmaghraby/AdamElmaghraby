@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Adam Elmaghraby</h1>
 
 # 💫 About Me
-I am a first-year computer science student, passionate about learning full-stack software development with a focus on React and Go.
+I am a first-year computer science student, passionate about learning the fields of coding, machine learning, and building application that can impact.
 
 ## 🚀 What I'm Up To
 
